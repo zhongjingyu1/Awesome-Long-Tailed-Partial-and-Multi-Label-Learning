@@ -44,3 +44,5 @@
 |[Revisiting Consistency Regularization for Deep Partial Label Learning](https://palm.seu.edu.cn/zhangml/files/ICML'22a.pdf)|ICML|2022|[Code](https://github.com/wu-dd/PLCR)|
 |[PiCO Contrastive Label Disambiguation for Partial Label Learning](https://openreview.net/pdf?id=EhYjZy6e1gJ)|ICLR|2022|[Code](https://github.com/hbzju/PiCO)|
 |[Towards Effective Visual Representations for Partial-Label Learning](https://openaccess.thecvf.com/content/CVPR2023/papers/Xia_Towards_Effective_Visual_Representations_for_Partial-Label_Learning_CVPR_2023_paper.pdf)|CVPR|2023|[Code](https://github.com/eddiexia98/PaPi)|
+|[Mutual Partial Label Learning with Competitive Label Noise](https://openreview.net/pdf?id=EUrxG8IBCrC)|ICLR|2023|-|
+|[Does Label Smoothing Help Deep Partial Label Learning](https://openreview.net/attachment?id=drjjxmi2Ha&name=pdf)|ICML|2024|[Code](https://github.com/kalpiree/LS-PLL)|
