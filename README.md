@@ -38,5 +38,5 @@
 |  Title   | Venue  | Year| Code|
 |  ----  | ----  |----  |----  |
 |[Provably Consistent Partial-Label Learning](https://papers.nips.cc/paper/2020/file/7bd28f15a49d5e5848d6ec70e584e625-Paper.pdf)|NIPS|2020|-|
-|[Progressive Identification of True Labels for Partial-Label Learning](https://proceedings.mlr.press/v119/lv20a/lv20a.pdf)\[supp](https://proceedings.mlr.press/v119/lv20a/lv20a-supp.pdf)|ICML|2020|[Code](https://github.com/lvjiaqi77/PRODEN)|
-|[Leveraged weighted loss for partial label learning](https://proceedings.mlr.press/v139/wen21a/wen21a.pdf)\[supp](https://proceedings.mlr.press/v139/wen21a/wen21a-supp.pdf)|ICML|2021|[Code](https://github.com/hongwei-wen/LW-loss-for-partial-label)|
+|[Progressive Identification of True Labels for Partial-Label Learning](https://proceedings.mlr.press/v119/lv20a/lv20a.pdf)/[supp](https://proceedings.mlr.press/v119/lv20a/lv20a-supp.pdf)|ICML|2020|[Code](https://github.com/lvjiaqi77/PRODEN)|
+|[Leveraged weighted loss for partial label learning](https://proceedings.mlr.press/v139/wen21a/wen21a.pdf)/[supp](https://proceedings.mlr.press/v139/wen21a/wen21a-supp.pdf)|ICML|2021|[Code](https://github.com/hongwei-wen/LW-loss-for-partial-label)|
