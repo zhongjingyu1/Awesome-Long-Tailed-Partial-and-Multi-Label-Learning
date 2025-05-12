@@ -40,7 +40,7 @@
 |[Provably Consistent Partial-Label Learning](https://papers.nips.cc/paper/2020/file/7bd28f15a49d5e5848d6ec70e584e625-Paper.pdf)|NIPS|2020|-|
 |[Progressive Identification of True Labels for Partial-Label Learning](https://proceedings.mlr.press/v119/lv20a/lv20a.pdf)/[supp](https://proceedings.mlr.press/v119/lv20a/lv20a-supp.pdf)|ICML|2020|[Code](https://github.com/lvjiaqi77/PRODEN)|
 |[Leveraged weighted loss for partial label learning](https://proceedings.mlr.press/v139/wen21a/wen21a.pdf)/[supp](https://proceedings.mlr.press/v139/wen21a/wen21a-supp.pdf)|ICML|2021|[Code](https://github.com/hongwei-wen/LW-loss-for-partial-label)|
-|[Exploiting Class Activation Value for Partial-Label Learning](https://openreview.net/pdf?id=qqdXHUGec9h))|ICLR|2021|[Code](https://github.com/Ferenas/CAVL)|
-|[Revisiting Consistency Regularization for Deep Partial Label Learning](https://palm.seu.edu.cn/zhangml/files/ICML'22a.pdf))|ICML|2022|[Code](https://github.com/wu-dd/PLCR)|
-|[PiCO Contrastive Label Disambiguation for Partial Label Learning](https://openreview.net/pdf?id=EhYjZy6e1gJ))|ICLR|2022|[Code](https://github.com/hbzju/PiCO)|
-|[Towards Effective Visual Representations for Partial-Label Learning](https://openaccess.thecvf.com/content/CVPR2023/papers/Xia_Towards_Effective_Visual_Representations_for_Partial-Label_Learning_CVPR_2023_paper.pdf))|CVPR|2023|[Code](https://github.com/eddiexia98/PaPi)|
+|[Exploiting Class Activation Value for Partial-Label Learning](https://openreview.net/pdf?id=qqdXHUGec9h)|ICLR|2021|[Code](https://github.com/Ferenas/CAVL)|
+|[Revisiting Consistency Regularization for Deep Partial Label Learning](https://palm.seu.edu.cn/zhangml/files/ICML'22a.pdf)|ICML|2022|[Code](https://github.com/wu-dd/PLCR)|
+|[PiCO Contrastive Label Disambiguation for Partial Label Learning](https://openreview.net/pdf?id=EhYjZy6e1gJ)|ICLR|2022|[Code](https://github.com/hbzju/PiCO)|
+|[Towards Effective Visual Representations for Partial-Label Learning](https://openaccess.thecvf.com/content/CVPR2023/papers/Xia_Towards_Effective_Visual_Representations_for_Partial-Label_Learning_CVPR_2023_paper.pdf)|CVPR|2023|[Code](https://github.com/eddiexia98/PaPi)|
