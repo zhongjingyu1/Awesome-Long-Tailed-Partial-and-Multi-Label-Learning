@@ -33,3 +33,4 @@
 |[Long-tailed partial label learning via dynamic rebalancing](https://arxiv.org/pdf/2302.05080)|ICLR |2023|[Code](https://github.com/MediaBrain-SJTU/RECORDS-LTPLL)|
 |[Pseudo Labels Regularization for Imbalanced Partial-Label Learning](https://arxiv.org/pdf/2303.03946)|ICASSP|2024|-|
 |[Long-Tailed Partial Label Learning by Head Classifier and Tail Classifier Cooperation](https://palm.seu.edu.cn/zhangml/files/AAAI'24c.pdf)|AAAI |2024|[Code](https://github.com/pruirui/HTC-LTPLL)|
+|[GBRIP: Granular Ball Representation for Imbalanced Partial Label Learning](https://ojs.aaai.org/index.php/AAAI/article/view/33916/36071)|AAAI |2025|[Code](https://github.com/hjtvioller/GBRIP)|
