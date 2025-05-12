@@ -1,13 +1,5 @@
 # Awesome Long-Tailed Partial and Multi-Label Learning
     A curated list of resources for Awesome Noisy Long-Tailed Learning
-### Long-Tailed Partial Label Learning
-|  Title   | Venue  | Year| Code|Image|
-|  ----  | ----  |----  |----  |----|
-|[A partial label metric learning algorithm for class imbalanced data](https://proceedings.mlr.press/v157/liu21f/liu21f.pdf)|PMLR|2021|-|-|
-|[SoLar: Sinkhorn Label Refinery for Imbalanced Partial-Label Learning](https://papers.nips.cc/paper_files/paper/2022/file/357a0a771bf65ee07926d6af41b75030-Paper-Conference.pdf)| NeurIPS | 2022| [Code](https://github.com/hbzju/SoLar)|-|
-|[Long-tailed partial label learning via dynamic rebalancing](https://arxiv.org/pdf/2302.05080)|ICLR |2023|[Code](https://github.com/MediaBrain-SJTU/RECORDS-LTPLL)|-|
-|[Pseudo Labels Regularization for Imbalanced Partial-Label Learning](https://arxiv.org/pdf/2303.03946)|ICASSP|2024|-|-|
-|[Long-Tailed Partial Label Learning by Head Classifier and Tail Classifier Cooperation](https://palm.seu.edu.cn/zhangml/files/AAAI'24c.pdf)|AAAI |2024|[Code](https://github.com/pruirui/HTC-LTPLL)|-|
 ### Long-Tailed Multi-Label Image Learning
 |  Title   | Venue  | Year| Code|Image|
 |  ----  | ----  |----  |---- |----|
@@ -33,3 +25,18 @@
 |[How Does Pruning Impact Long-Tailed Multi-label Medical Image Classifiers](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_64)|MICCAI|2023|-|Medicine|
 |[Towards long-tailed, multi-label disease classification from chest X-ray: Overview of the CXR-LT challenge](https://www.sciencedirect.com/science/article/pii/S136184152400149X)|MIA|2024|-|Medicine|
 
+### Long-Tailed Partial Label Learning
+|  Title   | Venue  | Year| Code|
+|  ----  | ----  |----  |----  |
+|[A partial label metric learning algorithm for class imbalanced data](https://proceedings.mlr.press/v157/liu21f/liu21f.pdf)|PMLR|2021|-|
+|[SoLar: Sinkhorn Label Refinery for Imbalanced Partial-Label Learning](https://papers.nips.cc/paper_files/paper/2022/file/357a0a771bf65ee07926d6af41b75030-Paper-Conference.pdf)| NeurIPS | 2022| [Code](https://github.com/hbzju/SoLar)|
+|[Long-tailed partial label learning via dynamic rebalancing](https://arxiv.org/pdf/2302.05080)|ICLR |2023|[Code](https://github.com/MediaBrain-SJTU/RECORDS-LTPLL)|
+|[Pseudo Labels Regularization for Imbalanced Partial-Label Learning](https://arxiv.org/pdf/2303.03946)|ICASSP|2024|-|
+|[Long-Tailed Partial Label Learning by Head Classifier and Tail Classifier Cooperation](https://palm.seu.edu.cn/zhangml/files/AAAI'24c.pdf)|AAAI |2024|[Code](https://github.com/pruirui/HTC-LTPLL)|
+
+### Deep Partial Label Learning
+|  Title   | Venue  | Year| Code|
+|  ----  | ----  |----  |----  |
+|[Provably Consistent Partial-Label Learning](https://papers.nips.cc/paper/2020/file/7bd28f15a49d5e5848d6ec70e584e625-Paper.pdf)|NIPS|2020|-|
+|[Progressive Identification of True Labels for Partial-Label Learning](https://proceedings.mlr.press/v119/lv20a/lv20a.pdf)\[supp](https://proceedings.mlr.press/v119/lv20a/lv20a-supp.pdf)|ICML|2020|[Code](https://github.com/lvjiaqi77/PRODEN)|
+|[Leveraged weighted loss for partial label learning](https://proceedings.mlr.press/v139/wen21a/wen21a.pdf)\[supp](https://proceedings.mlr.press/v139/wen21a/wen21a-supp.pdf)|ICML|2021|[Code](https://github.com/hongwei-wen/LW-loss-for-partial-label)|
