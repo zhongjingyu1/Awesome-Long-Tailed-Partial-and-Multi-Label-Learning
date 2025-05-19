@@ -15,6 +15,7 @@
 |[Adaptively Weighted Copy-Decoupling Resampling Strategy for Long-Tailed Multi-label Classification](https://ieeexplore.ieee.org/document/10332128)|ICPRAI|2023|-|-|
 |[LMPT: Prompt Tuning with Class-Specific Embedding Loss for Long-tailed Multi-Label Visual Recognition](https://aclanthology.org/2024.alvr-1.3.pdf)|ALVR|2023|[Code](https://github.com/richard-peng-xia/LMPT)|-|
 |[Distributionally Robust Loss for Long-Tailed Multi-Label Image Classification](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04926.pdf)|ECCV|2024|[Code](https://github.com/Kunmonkey/DR-Loss)|-|
+|[Category-Prompt Refined Feature Learning for Long-Tailed Multi-Label Image Classification](https://arxiv.org/pdf/2408.08125)|ACM MM|2024|[Code](https://github.com/jiexuanyan/CPRFL)|-|
 |[Towards Gradient Equalization and Feature Diversification for Long-Tailed Multi-Label Image Recognition](https://ieeexplore.ieee.org/abstract/document/10856413)|TMM|2025|-|-|
 |  ----  | ----  |----  |---- |----|
 |  ----  | ----  |----  |---- |----|
